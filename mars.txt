@@ -2,5 +2,6 @@ Yo! this is da git!
 use "git add" to put file in commit and "git commit" to put in data repository
 is this showing up as a change?
 make changes, git add to build the snapshot, the git commit to add to repository
+maybe I have to save and then close textpad...
 
 
